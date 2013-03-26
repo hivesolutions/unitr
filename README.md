@@ -1,4 +1,4 @@
-# Unit Reporting Tool (unitr)
+# Unit Testing Report Tool (unitr)
 
 Unit Test report generation and specification file tool.
 
